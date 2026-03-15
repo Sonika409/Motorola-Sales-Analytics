@@ -106,16 +106,16 @@ These slicers allow customized analysis for deeper insights.
 
 #### 📈 Business Impact & Insights
 
-* 📍 Regional Sales Strategy
+* 📍 Regional Sales Strategy :
 The city map highlights high-performing markets, helping businesses focus on strong regions.
 
-* 📊 Product Demand Analysis
+* 📊 Product Demand Analysis :
 Identifies the most popular smartphone models among customers.
 
-* 💳 Customer Payment Behavior
+* 💳 Customer Payment Behavior :
 Shows strong adoption of digital payments like UPI and cards.
 
-* 📅 Sales Timing Insights
+* 📅 Sales Timing Insights :
 Weekly and monthly trends help businesses optimize inventory and marketing campaigns.
 
 ## Demo
