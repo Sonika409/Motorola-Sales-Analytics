@@ -119,3 +119,4 @@ Shows strong adoption of digital payments like UPI and cards.
 Weekly and monthly trends help businesses optimize inventory and marketing campaigns.
 
 ## Demo
+![Dashboard Preview](https://github.com/Sonika409/Motorola-Sales-Analytics/blob/main/Snapshot%20of%20the%20Dashboard.PNG)
